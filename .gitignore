@@ -1,5 +1,4 @@
 .eunit
-deps
 *.o
 *.beam
 *.plt
@@ -8,3 +7,7 @@ ebin
 rel/example_project
 .concrete/DEV_MODE
 .rebar
+
+.metadata/*
+*.settings/*
+.project
