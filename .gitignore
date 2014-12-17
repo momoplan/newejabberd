@@ -13,4 +13,4 @@ rel/example_project
 *.settings/*
 .project
 
-deps/*
+.DS_Store
