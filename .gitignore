@@ -4,6 +4,7 @@
 *.plt
 erl_crash.dump
 ebin
+deps
 rel/example_project
 .concrete/DEV_MODE
 .rebar
@@ -11,3 +12,5 @@ rel/example_project
 .metadata/*
 *.settings/*
 .project
+
+deps/*
